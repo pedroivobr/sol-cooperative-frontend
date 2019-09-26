@@ -46,5 +46,5 @@ pt-BR:
     show:
       title: Dados do usuário
       covenants:
-        title: Convênios
-        description: Lista de convênios onde este usuário atua como Revisor
+        title: Aquisições
+        description: Lista de aquisições onde este usuário atua como Revisor

@@ -1,22 +1,22 @@
 pt-BR:
   models:
     covenant:
-      one: Convênio
-      other: Convênios
+      one: Aquisição
+      other: Aquisições
 
       attributes:
         id: Código (ID)
         name: Objeto
-        number: Número do convênio
+        number: Número do aquisição
         status: Situação
-        cooperativeId: Associação
-        cooperative: Associação
-        city: Município de execução do convênio
-        cityId: Município de execução do convênio
+        cooperativeId: Entidade
+        cooperative: Entidade
+        city: Município de execução do aquisição
+        cityId: Município de execução do aquisição
         adminId: Revisor
         admin: Revisor
         adminName: Revisor
-        estimatedCost: Valor do Convênio (R$)
+        estimatedCost: Valor do Aquisição (R$)
         validityDate: Data de vigência
         signatureDate: Data da assinatura
         cooperativeAddressCityName: Município
@@ -41,4 +41,4 @@ pt-BR:
         validity_date:
           missing: Data de vigência não pode ficar em branco
         cooperative:
-          missing: Associação não pode ficar em branco
+          missing: Entidade não pode ficar em branco
